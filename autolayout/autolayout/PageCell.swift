@@ -15,7 +15,7 @@ class PageCell: UICollectionViewCell {
             guard let page = page else { return }
             chevronImageView.image = UIImage(named: page.imageName)
             
-            let attributedText = NSMutableAttributedString(string: "All the things we claim to know!",
+            let attributedText = NSMutableAttributedString(string: page.headerText,
                                                            attributes: [NSAttributedStringKey.font: UIFont.boldSystemFont(ofSize: 18)])
             
             attributedText.append(NSAttributedString(string: "\n\n\n\(page.bodyText)",
