@@ -46,6 +46,7 @@
 		EE0E8CEB1FAB377300BB61A9 /* autolayoutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = autolayoutUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE9F2BD61FB1E0D6003F69AA /* Page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page.swift; sourceTree = "<group>"; };
 		EED64AAF1FACD00700F29938 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EEF1A6371FFFA0E80000A0DF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EEF5DA131FBAF21900F3B809 /* UIColor+extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -95,14 +96,15 @@
 		EE0E8CCE1FAB377300BB61A9 /* autolayout */ = {
 			isa = PBXGroup;
 			children = (
-				EE0E8CCF1FAB377300BB61A9 /* AppDelegate.swift */,
-				EE0E8CD31FAB377300BB61A9 /* Main.storyboard */,
 				EED64AAF1FACD00700F29938 /* Assets.xcassets */,
+				EE0E8CCF1FAB377300BB61A9 /* AppDelegate.swift */,
 				EE02BE951FB0686D00452ABD /* PageCell.swift */,
 				EE9F2BD61FB1E0D6003F69AA /* Page.swift */,
 				EE02BE931FAF42A200452ABD /* SwipingController.swift */,
+				EEF1A6371FFFA0E80000A0DF /* README.md */,
 				EEF5DA131FBAF21900F3B809 /* UIColor+extension.swift */,
 				EE0E8CD81FAB377300BB61A9 /* LaunchScreen.storyboard */,
+				EE0E8CD31FAB377300BB61A9 /* Main.storyboard */,
 				EE0E8CDB1FAB377300BB61A9 /* Info.plist */,
 			);
 			path = autolayout;
