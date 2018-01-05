@@ -59,6 +59,7 @@
 		EEF1A6311FFF83630000A0DF /* SwipingController+extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwipingController+extension.swift"; sourceTree = "<group>"; };
 		EEF1A6331FFF8E9C0000A0DF /* SwipingController+CollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwipingController+CollectionView.swift"; sourceTree = "<group>"; };
 		EEF1A6351FFF92820000A0DF /* PageCell+TableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PageCell+TableView.swift"; sourceTree = "<group>"; };
+		EEF1A6381FFFA2E80000A0DF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +121,7 @@
 				EEB899A71FBCAC7A00139878 /* AppDelegate.swift */,
 				EE176B601FF25392007ABF11 /* PageCell.swift */,
 				EEF1A6351FFF92820000A0DF /* PageCell+TableView.swift */,
+				EEF1A6381FFFA2E80000A0DF /* README.md */,
 				EE4893871FF0194B00AD57E0 /* SwipingController+BottomControls.swift */,
 				EEF1A6311FFF83630000A0DF /* SwipingController+extension.swift */,
 				EEF1A6331FFF8E9C0000A0DF /* SwipingController+CollectionView.swift */,
