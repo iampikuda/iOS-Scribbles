@@ -28,7 +28,7 @@ var ok = [9,8,7,5,4,9]
 //    }
 //}
 //
-//func ok(_ array: inout [Int]) -> Int {
+//func solution(_ array: inout [Int]) -> Int {
 //
 //    while array.count > 1 {
 //
@@ -64,7 +64,7 @@ public func solution(_ A : inout [Int]) -> Int {
 
 solution(&londo)
 
-func bado(_ A : inout [Int]) -> Int{
+func solution2(_ A : inout [Int]) -> Int{
     var z = 0
 
     for i in A {
@@ -74,7 +74,7 @@ func bado(_ A : inout [Int]) -> Int{
     return z
 }
 
-bado(&londo)
+solution2(&londo)
 
 
 
