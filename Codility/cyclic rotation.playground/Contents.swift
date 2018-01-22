@@ -23,7 +23,7 @@ public func solution(_ A : inout [Int], _ K : Int) -> [Int] {
 }
 
 public func solution2(_ A : inout [Int],_ K : Int) -> [Int] {
-    // write your code in Swift 2.2
+
     if A.count == 0 {
         return A
     }
@@ -34,7 +34,4 @@ public func solution2(_ A : inout [Int],_ K : Int) -> [Int] {
 
     return A
 }
-
-var ok: [Int] = [3,5,1,3,2]
-solution(&ok, 999)
 
